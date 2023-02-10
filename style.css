@@ -1,0 +1,27 @@
+body {
+  background: white;
+}
+
+button {
+  color: white;
+  background: red;
+  border-radius: 20%;
+  font-size: 40px;
+}
+
+div {
+  width: 300px;
+  height: 100px;
+  position: absolute;
+  margin: auto;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background: white;
+  text-align: center;
+}
+
+#move{
+  position: relative;
+}

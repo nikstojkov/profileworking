@@ -1,4 +1,5 @@
 let sound = false;
+
 const audio = new Audio('Benny.mp3');
 
 const runaway = (id) => {

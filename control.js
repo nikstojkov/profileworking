@@ -1,5 +1,5 @@
 let sound = false;
-const audio = new Audio('https://voca.ro/16urULMtV3bF');
+const audio = new Audio('Benny.mp3');
 
 const runaway = (id) => {
   id.style.top = Math.round(Math.random() * 200) + 200 + "px";
